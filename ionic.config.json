@@ -1,0 +1,8 @@
+{
+  "name": "money",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "49b93c25"
+}
